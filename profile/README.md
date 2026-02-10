@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="resources/catppuccin--nest.svg" width="200" alt="NestJS Logo" align="middle" />
+  <img src="../resources/catppuccin--nest.svg" width="200" alt="NestJS Logo" align="middle" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="resources/icon-park--plus.svg" width="80" alt="Plus" align="middle" />
+  <img src="../resources/icon-park--plus.svg" width="80" alt="Plus" align="middle" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="resources/carbon--microservices-1.svg" width="200" alt="Microservices Logo" align="middle" />
+  <img src="../resources/carbon--microservices-1.svg" width="200" alt="Microservices Logo" align="middle" />
 </p>
 
 <h1 align="center">NestJS + Microservicios</h1>
